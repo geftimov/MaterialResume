@@ -39,7 +39,7 @@ a {
 .about_me_header {
   height: 148px;
   width: 400px;
-  background-image: url(../img/header.jpg);
+  background-image: url(../img/background.jpg);
 
   background-position: bottom center;
   background-size: cover;
